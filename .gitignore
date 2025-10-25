@@ -1,0 +1,18 @@
+# ESP-IDF build files
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.h
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary or swap files
+*.swp
+*.swo
+*~
